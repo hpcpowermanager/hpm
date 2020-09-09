@@ -1,2 +1,2 @@
 # hpm
-# hpm
+HPM is a power management tool for HPC applications. It currently measures package power, core power, DRAM power, cpu utilization, clock gated residency, idle residency and the DRAM access bandwidth of a given workload with the sampling frequency of one second. The output is generated in the form of a csv file. One can generate the output in the form of graphs or tables using these csv values.
